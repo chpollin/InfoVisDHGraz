@@ -1,13 +1,13 @@
 ---
 title: VisPer – a Person-centred Visualisation of the Estates (Nachlässe) of the Vienna City Library  
 date: 2022-10-27
+author: Christiane Fritze
 categories: [Animal, Insect]
 tags: [literary estate]
 comments: false
 ---
 
-**Christiane Fritze, Katharina, Prager and Evelyne Luef**
-
+**Christiane Fritze, Katharina, Prager and Evelyne Luef**\
 Vienna City Library
 
 # Abstract 
