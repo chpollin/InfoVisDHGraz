@@ -21,8 +21,9 @@ By presenting this work at the "Workshop on Information Visualization in the (Di
 
 PDF
 
-{% pdf "/slides/slides_presentation_2.pdf" %}
+{% pdf "slides/slides_presentation_2.pdf" %}
 
 Powerpoint
 
+{% pdf "slides/slides_presentation_2.ppt" %}
 
