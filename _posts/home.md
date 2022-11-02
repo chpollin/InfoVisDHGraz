@@ -1,8 +1,8 @@
 ---
 title: Home
 date: 2022-11-02 12:00:00 -500
-categories: [test]
-tags: [digital,humanities,information,visualisation,]
+categories: [test, test1]
+tags: [digital,humanities,information,visualisation]
 ---
 
 # Welcome
