@@ -134,6 +134,10 @@ collections:
     output: true
     sort_by: order
 
+# CP https://github.com/MihajloNesic/jekyll-pdf-embed
+plugins:
+  - jekyll-pdf-embed
+
 defaults:
   - scope:
       path: ''          # An empty string here means all files in the project
