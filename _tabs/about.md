@@ -4,7 +4,9 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-## 27th-28th of October 2022, University of Graz 
+## Workshop on Information Visualization in the (Digital) Humanities
+
+### 27th-28th of October 2022, University of Graz 
 
 Organizers: Philipp Hofeneder (Department of Translation Studies), Christopher Pollin (Centre for Information Modelling)
 
