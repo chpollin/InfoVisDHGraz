@@ -19,11 +19,13 @@ By presenting this work at the "Workshop on Information Visualization in the (Di
 
 ## Slides
 
+![Logo University of Graz](\assets\img\uni_graz.jpg)
+
 PDF
 
-{% pdf "https://github.com/chpollin/InfoVisDHGraz/blob/6731e634beaeb29a4afac67ee00d0ebc141ced46/slides/slides_presentation_2.pdf" %}
+{% pdf "\assets\slides\slides_presentation_2.pdf" %}
 
 Powerpoint
 
-{% pdf "https://github.com/chpollin/InfoVisDHGraz/blob/6731e634beaeb29a4afac67ee00d0ebc141ced46/slides/slides_presentation_2.pptx" %}
+{% pdf "\assets\slides\slides_presentation_2.pptx" %}
 
