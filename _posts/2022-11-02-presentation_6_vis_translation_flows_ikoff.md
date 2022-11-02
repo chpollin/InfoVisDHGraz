@@ -38,6 +38,6 @@ In summary, the composite visualisation offers a more nuanced answer to the rese
 
 # Slides
 
-{% pdf "https://raw.githubusercontent.com/chpollin/InfoVisDHGraz/bfd0844b1b68cddb4d16a5c6d8d5300f59e23f14/slides/slides_presentation_6_ikoff.pptx" no_link %}
+{% pdf "https://raw.githubusercontent.com/chpollin/InfoVisDHGraz/5fd88139ff2f86b254e152dadfe7719d2c53403c/slides/slides_presentation_6_ikoff.pptx" no_link %}
 
 # Resources

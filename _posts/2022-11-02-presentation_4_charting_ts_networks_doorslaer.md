@@ -30,6 +30,6 @@ also to contribute to a dynamic view on TS historiography.
 
 # Slides
 
-{% pdf "https://raw.githubusercontent.com/chpollin/InfoVisDHGraz/bfd0844b1b68cddb4d16a5c6d8d5300f59e23f14/slides/slides_presentation_4_doorslaer.pptx" no_link %}
+{% pdf "https://raw.githubusercontent.com/chpollin/InfoVisDHGraz/5fd88139ff2f86b254e152dadfe7719d2c53403c/slides/slides_presentation_4_doorslaer.pptx" no_link %}
 
 # Resources

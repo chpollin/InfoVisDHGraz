@@ -1,6 +1,5 @@
 ---
 title: "Connecting the Dots in a Topic Model:  A Network Representation of Topics and Periodicals"
-author: Sanja Saric
 date: 2022-10-27
 categories: [Animal, Insect]
 tags: [bee]
