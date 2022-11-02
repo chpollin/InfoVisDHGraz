@@ -19,8 +19,10 @@ By presenting this work at the "Workshop on Information Visualization in the (Di
 
 # Slides
 
+{% pdf "/slides/slides_presentation_2.pdf" %}
+
 Powerpoint
 
-{% pdf "\slides\slides_presentation_2.ppt" %}
+{% pdf "/slides/slides_presentation_2.pptx" %}
 
 # Resources
