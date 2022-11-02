@@ -19,7 +19,8 @@ Lorem Ipsum
 
 # Resources
 
-* [ILLUMINATING DATA THROUGH VISUALISATION | Keith Andrews | TEDxGraz](https://www.youtube.com/watch?v=fnyKj8r0CN4)
+* [Keith Andrews (2016) ILLUMINATING DATA THROUGH VISUALISATION, TEDxGraz](https://www.youtube.com/watch?v=fnyKj8r0CN4)
 * [Keith Andrews (2022) Information Visualisation Course Notes](https://courses.isds.tugraz.at/ivis/ivis.pdf)
+
 
 

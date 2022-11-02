@@ -123,4 +123,6 @@ starting point for different visualisations.
 
 # Resources
 
+* [Deutsche Digitale Bibliothek visualized - Urban Complexity Lab](https://uclab.fh-potsdam.de/ddb/index.en.html) 
+
 
