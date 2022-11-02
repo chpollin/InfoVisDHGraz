@@ -4,7 +4,7 @@ date: 2022-11-02 13:22:00
 categories: [Animal, Insect]
 tags: [bee]
 comments: false
-pdf_file: "/slides/slides_presentation_2.pdf"
+pdf_file: "\slides\slides_presentation_2.pdf"
 ---
 
 ## Abstract
@@ -18,5 +18,11 @@ This allows the researchers to observe the closeness of periodicals by the proba
 By presenting this work at the "Workshop on Information Visualization in the (Digital) Humanities", I hope for an exchange of thoughts on the application of networks in combination with topic modeling and on further improvements necessary to make these highly informative visualizations better comprehensible for the non-digital research community.    
 
 ### Slides
+
+PDF
+
+{% pdf "\slides\slides_presentation_2.pdf" %}
+
+Powerpoint
 
 {% pdf "\slides\slides_presentation_2.pdf" %}
