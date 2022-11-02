@@ -6,6 +6,8 @@ tags: [bee]
 comments: false
 ---
 
+**Christiane Fritze, Katharina, Prager and Evelyne Luef**
+
 # Abstract 
 
 The Vienna City Library (Wienbibliothek im Rathaus) is a special library with a general
