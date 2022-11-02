@@ -1,5 +1,6 @@
 ---
 title: "Connecting the Dots in a Topic Model:  A Network Representation of Topics and Periodicals"
+author: Sanja Saric
 date: 2022-10-27
 categories: [Animal, Insect]
 tags: [bee]
@@ -16,9 +17,11 @@ This allows the researchers to observe the closeness of periodicals by the proba
  
 By presenting this work at the "Workshop on Information Visualization in the (Digital) Humanities", I hope for an exchange of thoughts on the application of networks in combination with topic modeling and on further improvements necessary to make these highly informative visualizations better comprehensible for the non-digital research community.    
 
-### Slides
+## Slides
 
 PDF
+
+{% pdf "/slides/slides_presentation_2.pdf" %}
 
 Powerpoint
 
