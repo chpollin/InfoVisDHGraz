@@ -1,9 +1,10 @@
 ---
 title: Home
-date: 2022-11-02 12:00:00 -500
-categories: [test, test1]
-tags: [digital,humanities,information,visualisation]
+date: 2022-11-02 13:22:00 -0100
+categories: [TOP_CATEGORIE, SUB_CATEGORIE]
+tags: [tag]     # TAG names should always be lowercase
 ---
+
 
 # Welcome
 
