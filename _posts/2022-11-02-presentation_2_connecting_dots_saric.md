@@ -7,7 +7,7 @@ tags: [bee]
 comments: false
 ---
 
-## Abstract
+# Abstract
 
 The topic modeling analysis results are twofold: a matrix called 'document topics' containing probability measures for each topic in each document, as well as a data frame of topics with their probabilities in the corpus and a predefined number of most frequent tokens per topic ('topic keys'). In DiSpecs, mean values of probability measures were calculated for each periodical. These results were then visualized using heat maps, line diagrams, word clouds, and – what is the focus in this submission -- networks (cf. https://gams.uni-graz.at/archive/objects/o:dispecs.result.tm.fr/methods/sdef:TEI/get?mode=topic-network, https://gams.uni-graz.at/archive/objects/o:dispecs.result.tm.es/methods/sdef:TEI/get?mode=topic-network, and https://gams.uni-graz.at/archive/objects/o:dispecs.result.tm.it/methods/sdef:TEI/get?mode=topic-network). Compared to heat maps, which are commonly used to visualize the probability of topics over analyzed entities (in this case periodicals), it can be argued that networks have the additional potential of representing the closeness between the entities based on topics, the scope of the entities (e. g. the number of periodicals), as well as of the inclusion of further annotated data from the analyzed corpus. This latter-mentioned advantage enabled the visualization of topics in combination with manually assigned keywords from the Spectators digital edition by using pie charts as nodes.
  
@@ -17,13 +17,14 @@ This allows the researchers to observe the closeness of periodicals by the proba
  
 By presenting this work at the "Workshop on Information Visualization in the (Digital) Humanities", I hope for an exchange of thoughts on the application of networks in combination with topic modeling and on further improvements necessary to make these highly informative visualizations better comprehensible for the non-digital research community.    
 
-## Slides
+# Slides
 
 PDF
 
-{% pdf "\assets\slides\slides_presentation_2.pdf" width=350px height=500px no_link %}
+{% pdf "\slides\slides_presentation_2.pdf" %}
 
 Powerpoint
 
-{% pdf "\assets\slides\slides_presentation_2.ppt" width=350px height=500px no_link %}
+{% pdf "\slides\slides_presentation_2.ppt" %}
 
+# Resources
