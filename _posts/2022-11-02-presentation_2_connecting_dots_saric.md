@@ -19,8 +19,6 @@ By presenting this work at the "Workshop on Information Visualization in the (Di
 
 # Slides
 
-Powerpoint
-
-{% pdf "https://github.com/chpollin/InfoVisDHGraz/blob/main/slides/slides_presentation_2.pptx" no_link %}
+{% pdf "https://raw.githubusercontent.com/chpollin/InfoVisDHGraz/bfd0844b1b68cddb4d16a5c6d8d5300f59e23f14/slides/slides_presentation_2.pptx" no_link %}
 
 # Resources
