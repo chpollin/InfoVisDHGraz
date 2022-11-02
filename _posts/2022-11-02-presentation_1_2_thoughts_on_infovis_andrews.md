@@ -1,5 +1,5 @@
 ---
-title: Some Thoughts on Information Visualization - Andrews 
+title: Introduction to Information Visualisation - Keith Andrews
 date: 2022-10-27
 author: Keith Andrews
 categories: [Animal, Insect]
@@ -15,18 +15,11 @@ Lorem Ipsum
 
 # Slides
 
-# Notes
-
-DH as melting pot of other disciplines and fields, and mutually influencing with data viz
-Card et al. Definition
-Interactive, abstract, visual, amplify cognition
-Iconicity
-Semiotic approach
-Sign processes, symbolic convention, show relation, semantic contextualization
-Diagrammatic reasoning
-Data Modelling / CIDOC CRM
-Drucker (2011): Humanities Approaches to Graphical Display    
-Capta vs data 
-
+{% pdf "https://raw.githubusercontent.com/chpollin/InfoVisDHGraz/70d3f6fddefa9bb764b5249d12a4251a71465aac/slides/slides_presentation_4_doorslaer.pptx" no_link %}
 
 # Resources
+
+* ![ILLUMINATING DATA THROUGH VISUALISATION | Keith Andrews | TEDxGraz](https://www.youtube.com/watch?v=fnyKj8r0CN4)
+* ![Keith Andrews (2022) Information Visualisation Course Notes](https://courses.isds.tugraz.at/ivis/ivis.pdf)
+
+
