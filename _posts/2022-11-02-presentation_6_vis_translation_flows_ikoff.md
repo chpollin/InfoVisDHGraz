@@ -2,12 +2,14 @@
 title: Visualising Translation Flows in Ibero-American Literary Magazines 
 date: 2022-10-28
 categories: [Animal, Insect]
-tags: [bee]
+tags: [translation studies]
 comments: false
 ---
 
 **Ventsislav Ikoff (1), Alessio Cardillo (1), Laura Fólica (1), and Diana Roig Sanz (2),(1)**
+
 1 Internet Interdisciplinary Institute (IN3) – Universitat Oberta de Catalunya – Barcelona, Spain
+
 2 Catalan Institution for Research and Advanced Studies (ICREA) – Barcelona, Spain
 
 # Abstract 

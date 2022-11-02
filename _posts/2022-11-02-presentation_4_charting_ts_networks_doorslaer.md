@@ -2,10 +2,11 @@
 title: Charting Translation Studies Networks 
 date: 2022-10-28
 categories: [Animal, Insect]
-tags: [bee]
+tags: [translation studies]
 comments: false
 ---
 
+**Luc van Doorslaer**
 # Abstract 
 
 The past two decades have seen a number of initiatives towards structuring the

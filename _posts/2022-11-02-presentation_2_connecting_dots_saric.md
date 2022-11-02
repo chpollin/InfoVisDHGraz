@@ -2,9 +2,12 @@
 title: "Connecting the Dots in a Topic Model:  A Network Representation of Topics and Periodicals"
 date: 2022-10-27
 categories: [Animal, Insect]
-tags: [bee]
+tags: [topic modeling]
 comments: false
 ---
+
+**Sanja Sarić**\
+Centre for Informationmodelling, University of graz
 
 # Abstract
 

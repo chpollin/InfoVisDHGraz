@@ -2,11 +2,13 @@
 title: VisPer – a Person-centred Visualisation of the Estates (Nachlässe) of the Vienna City Library  
 date: 2022-10-27
 categories: [Animal, Insect]
-tags: [bee]
+tags: [literary estate]
 comments: false
 ---
 
 **Christiane Fritze, Katharina, Prager and Evelyne Luef**
+
+Vienna City Library
 
 # Abstract 
 
@@ -17,6 +19,7 @@ fields of culture, science and politics as well as posters, magazines and books 
 Vienna. Its extensive holdings, information services and exhibitions make it a place of
 academic research, a meeting place for authors and a space for discourse for all those
 interested in Vienna's history.
+
 All in all the manuscript collection holds about 250,000 catalogued autographs as well as
 about 1.060 estates. Estate materials are of a very diverse nature – manuscripts of works,
 correspondences, life documents, objects etc. – and thus the indexing of the materials can
