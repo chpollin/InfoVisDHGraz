@@ -2,7 +2,6 @@
 title: Visualising Translation Flows in Ibero-American Literary Magazines 
 date: 2022-10-28
 author: Ventsislav Ikoff
-categories: [Animal, Insect]
 tags: [translation studies]
 comments: false
 ---

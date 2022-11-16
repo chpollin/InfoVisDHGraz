@@ -2,7 +2,6 @@
 title: "In the network of the city. Social Groups, Networks of Relations and Interactions in Late Medieval Vienna (1448-1466)" 
 date: 2022-10-28
 author: Korbinian Grünwald
-categories: [Animal, Insect]
 tags: [history]
 comments: false
 ---
