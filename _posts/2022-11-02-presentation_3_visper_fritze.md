@@ -120,7 +120,7 @@ starting point for different visualisations.
 
 # Slides
 
-{% pdf "https://raw.githubusercontent.com/chpollin/InfoVisDHGraz/raw/cb5a0e3b861f4aef263c10623f7f8f193a957a87/slides/slides_presentation_3_visper_fritze.pptx" no_link %}
+{% pdf "https://raw.githubusercontent.com/chpollin/InfoVisDHGraz/raw/49c6a5625a1767a41821a8d9cd1463266c2d6ba1/slides/slides_presentation_3_visper_fritze.pptx" no_link %}
 
 # Resources
 

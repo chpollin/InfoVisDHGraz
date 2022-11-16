@@ -1,5 +1,5 @@
 ---
-title: Some thoughts on information visualization: Visualization as an epistemic tool
+title: Some thoughts on information visualization. Visualization as an epistemic tool
 date: 2022-10-27
 author: Linda Freyberg
 tags: [bee]
