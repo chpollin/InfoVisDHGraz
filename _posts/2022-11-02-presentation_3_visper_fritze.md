@@ -121,7 +121,7 @@ starting point for different visualisations.
 
 # Slides
 
-{% pdf "https://raw.githubusercontent.com/chpollin/InfoVisDHGraz/bfd0844b1b68cddb4d16a5c6d8d5300f59e23f14/slides/slides_presentation_2.pptx" no_link %}
+{% pdf "https://raw.githubusercontent.com/chpollin/InfoVisDHGraz/raw/cb5a0e3b861f4aef263c10623f7f8f193a957a87/slides/slides_presentation_3_visper_fritze.pptx" no_link %}
 
 # Resources
 
