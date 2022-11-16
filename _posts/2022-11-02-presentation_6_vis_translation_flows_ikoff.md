@@ -36,7 +36,6 @@ The resulting Sankey diagram allows to visually explore the flows between countr
 
 In summary, the composite visualisation offers a more nuanced answer to the research question about the circulation of translated literature in Ibero-American periodicals. The two elements of the visualisation reveal different information from the same underlying data. Combined in a composite visualisation, they complement each other and mitigate their shortcomings.
 
-
 # Slides
 
 {% pdf "https://raw.githubusercontent.com/chpollin/InfoVisDHGraz/5fd88139ff2f86b254e152dadfe7719d2c53403c/slides/slides_presentation_6_ikoff.pptx" no_link %}

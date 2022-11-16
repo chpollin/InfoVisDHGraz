@@ -6,7 +6,8 @@ tags: [history]
 comments: false
 ---
 
-**Korbinian Grünwald**
+**Korbinian Grünwald**\
+Institute of Austrian Historical Research, University of Vienna
 
 # Abstract 
 

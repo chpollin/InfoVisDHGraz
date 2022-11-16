@@ -1,12 +1,13 @@
 ---
-title: Introduction to Information Visualisation - Keith Andrews
+title: Introduction to Information Visualisation
 date: 2022-10-27
 author: Keith Andrews
 tags: [bee]
 comments: false
 ---
 
-**Keith Andrews**
+**Keith Andrews**\
+ISDS, Graz University of Technology, Austria
 
 # Abstract 
 

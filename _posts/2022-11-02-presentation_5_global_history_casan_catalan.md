@@ -6,7 +6,8 @@ tags: [bee]
 comments: false
 ---
 
-**Rubén Rodríguez Casañ, Elisabet Carbó Catalan and Diana Roig-Sanz**
+**Rubén Rodríguez Casañ, Elisabet Carbó Catalan and Diana Roig-Sanz**\
+Global Literary Studies Research Lab
 
 # Abstract 
 
@@ -24,5 +25,7 @@ Several challenges have remained unsolved. The first group is related to the for
 there are common elements between the possible maps, the fact that there are also differences problematizes the supposed transparency or self-explanatory character of the visualization per se and invites us to analyze the different visualizations both in isolation and in comparison with the others.
 
 # Slides
+
+{% pdf "https://raw.githubusercontent.com/chpollin/InfoVisDHGraz/raw/5b89e9408295bb167e7a50d6070f0050d973199e/slides/slides_presentation_5_global_history_casan_catalan.pptx" no_link %}
 
 # Resources

@@ -6,7 +6,8 @@ tags: [translation studies]
 comments: false
 ---
 
-**Luc van Doorslaer**
+**Luc van Doorslaer**\
+University of Tartu
 
 # Abstract 
 

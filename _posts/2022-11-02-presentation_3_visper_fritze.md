@@ -6,7 +6,7 @@ tags: [literary estate]
 comments: false
 ---
 
-**Christiane Fritze, Katharina, Prager and Evelyne Luef**\
+**Christiane Fritze, Katharina Prager and Evelyne Luef**\
 Vienna City Library
 
 # Abstract 
