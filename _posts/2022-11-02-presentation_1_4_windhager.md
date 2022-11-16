@@ -1,5 +1,5 @@
 ---
-title: Some thoughts on VIS + (D)HHow to not hammer the Arts & Humanities
+title: Some thoughts on VIS + (D)H. How to not hammer the Arts & Humanities
 date: 2022-10-27
 author: Florian Windhager
 tags: [bee]
@@ -15,6 +15,8 @@ Lorem Ipsum
 
 # Slides
 
-{% pdf "https://raw.githubusercontent.com//chpollin/InfoVisDHGraz/raw/5b89e9408295bb167e7a50d6070f0050d973199e/slides/slides_presentation_1_4_windhager.pptx" no_link %}
+{% pdf "https://raw.githubusercontent.com/chpollin/InfoVisDHGraz/raw/b224fbb8778c248109d059a1ff07f2f69c6177b8/slides/slides_presentation_1_4_windhager.pptx no_link %}
+
+
 
 # Resources
