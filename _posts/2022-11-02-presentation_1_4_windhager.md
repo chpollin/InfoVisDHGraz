@@ -1,7 +1,7 @@
 ---
 title: Some thoughts on VIS + (D)H. How to not hammer the Arts & Humanities
 date: 2022-10-27
-author: Florian Atzenhofer-Baumgartner
+authors: [<author1_id>, <author2_id>]
 tags: [information visualization]
 comments: false
 ---

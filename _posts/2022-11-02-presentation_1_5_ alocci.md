@@ -1,7 +1,7 @@
 ---
 title: Some thoughts on information visualization.
 date: 2022-10-27
-author: Florian Atzenhofer-Baumgartner
+authors: [<author1_id>, <author2_id>]
 tags: [information visualization]
 comments: false
 ---
