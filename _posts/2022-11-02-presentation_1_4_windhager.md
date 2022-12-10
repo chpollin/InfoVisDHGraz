@@ -2,7 +2,7 @@
 title: Some thoughts on VIS + (D)H. How to not hammer the Arts & Humanities
 date: 2022-10-27
 author: Florian Windhager
-tags: [bee]
+tags: [information visualization]
 comments: false
 ---
 

@@ -2,7 +2,7 @@
 title: Introduction to Information Visualisation
 date: 2022-10-27
 author: Keith Andrews
-tags: [bee]
+tags: [information visualization]
 comments: false
 ---
 
