@@ -19,7 +19,7 @@ human-computer interaction, information visualization
 
 ## Slides
 
-{% pdf "https://raw.githubusercontent.com/chpollin/InfoVisDHGraz/2320c6123f47304e79376925bce44e38d867f5ed/slides/slides_presentation_1_3_freyberg.pptx" no_link %}
+{% pdf "https://github.com/chpollin/InfoVisDHGraz/raw/e9cfe9481f7f1947e049e66a7464991427f9f74a/slides/slides_presentation_1_3_freyberg.pptx" no_link %}
 
 ## Resources
 
