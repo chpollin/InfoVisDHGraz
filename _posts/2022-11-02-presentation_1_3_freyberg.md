@@ -20,3 +20,8 @@ human-computer interaction, information visualization
 ## Slides
 
 {% pdf "https://raw.githubusercontent.com/chpollin/InfoVisDHGraz/raw/43380e86c87af4689f296d30b0cf7546f27bc3a1/slides/slides_presentation_1_3_freyberg.pptx" no_link %}
+
+## Resources
+
+* [Visualizing cultural heritage (Linda Freyberg). Talk on YouTube](https://www.youtube.com/watch?v=6-E5vi6oIVU)
+* [Fashion History by Entities: Artworks, Garments and Events | Linda Freyberg and Giacomo Nanni. Talk on YouTube](https://www.youtube.com/watch?v=GUnoHNtKvbM)
