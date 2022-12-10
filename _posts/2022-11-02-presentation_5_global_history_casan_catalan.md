@@ -19,6 +19,6 @@ Rubén Rodríguez CASAÑ, Elisabet Carbó CATALAN and Diana ROIG-SANZ create a v
 
 ## Slides
 
-{% pdf "https://raw.githubusercontent.com/chpollin/InfoVisDHGraz/raw/5b89e9408295bb167e7a50d6070f0050d973199e/slides/slides_presentation_5_global_history_casan_catalan.pptx" no_link %}
+{% pdf "https://github.com/chpollin/InfoVisDHGraz/raw/471c63cc43f0919d13d7b3dc7ac1fba7fbfac036/slides/slides_presentation_5_global_history_casan_catalan.pptx" no_link %}
 
 ## Resources
