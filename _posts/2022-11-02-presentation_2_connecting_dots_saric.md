@@ -23,4 +23,12 @@ topic modelling, network visualisation
 
 ## Feedback
 
+Linda FREYBERG stresses the importance of being unambiguous and transparent regarding the application’s terminology, e.g., the meaning of probability calculations or modularity groups in networks. In addition, even though topic labelling can be done fully automatically, it is advised to rely less on automation and to contemplate the use of domain-specific thesauri for this task.
+
+Keith ANDREWS recommends contrasting the research with other tools that visualize networks or belong to the domain of Visual Document Analysis. He stresses that making the results as deterministic as possible is key, such as by applying t-SNE in addition to Gephi’s Fruchterman-Reingold and ForceAtlas.
+
+Florian WINDHAGER proposes using word clouds on top of clustering methods, such as by integrating legends or mouse-over effects. Moreover, additional layers to information space seem sustainable; joining multiple and expressing them simultaneously color-wise may fle comprehension.
+
+Tiziana ALOCCI advises using a more up-to-date visualization software and also securing a more concrete access point into the visual itself, regardless of whether the implementation is primarily aimed at Romance studies research experts.
+
 ## Resources
