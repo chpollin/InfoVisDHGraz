@@ -19,14 +19,20 @@ social history, prosopography
 
 ## Feedback
 
+Keith ANDREWS insists that, instead of complex query masks to generate visualizations, a faceted-search mask would be more suitable. He adds that, generally, one should prefer bar chart over pie chart; in any case, the successive order of visual elements should be constitent and transparent. Regarding network graphs, ANDREWS states that for large-scale network visuals, it might be preferable to include a threshold, i.e., representing only nodes with a certain amount of edges. Furthermore, he stresses that including more (agglomerations of) metadata in generating the visuals would be a promising endeavor, e.g., georeferences.
+
+Linda FREYBERG remarks positively on the aesthetics of some visuals shown, noticing conceptual similarity to designs classics from Otto NEURATH. She also advocates using open data processing tools, such as OpenRefine.
+
+Tiziana ALOCCI suggests using Datawrapper to ingest the data into proper visuals more easily when confronted with a lack of technical resources. Furthermore, joining with FREYBERG, she proposes working with more symbols, and with them contextually expanding into other areas of social life, e.g., including specific landmarks. In the case of including georeferences, she advises resorting to open and free software solutions.
+
 ## Slides
 
 {% pdf "https://raw.githubusercontent.com/chpollin/InfoVisDHGraz/5fd88139ff2f86b254e152dadfe7719d2c53403c/slides/slides_presentation_7_gruenwald.pptx" no_link %}
 
 ## Resources
 
-* ‘Datawrapper Blog’. Accessed 10 December 2022. [https://blog.datawrapper.de/](https://blog.datawrapper.de/).
-* ‘David Rumsey Historical Map Collection | The Collection’. Accessed 9 December 2022. [https://www.davidrumsey.com/](https://www.davidrumsey.com/).
-* ‘Isotype (Picture Language)’. In _Wikipedia_, 16 November 2022. [https://en.wikipedia.org/w/index.php?title=Isotype_(picture_language)&oldid=1122230869](https://en.wikipedia.org/w/index.php?title=Isotype_(picture_language)&oldid=1122230869).
-* ‘OpenRefine Introduction’. Accessed 10 December 2022. [https://jonasparnow.com/open-refine/](https://jonasparnow.com/open-refine/).
-* OpenStreetMap. ‘OpenStreetMap’. Accessed 9 December 2022. [https://www.openstreetmap.org/](https://www.openstreetmap.org/).
+* Datawrapper Blog. Accessed 10 December 2022. [https://blog.datawrapper.de/](https://blog.datawrapper.de/).
+* David Rumsey Historical Map Collection | The Collection. Accessed 9 December 2022. [https://www.davidrumsey.com/](https://www.davidrumsey.com/).
+* Isotype (Picture Language). In _Wikipedia_, 16 November 2022. [https://en.wikipedia.org/w/index.php?title=Isotype_(picture_language)&oldid=1122230869](https://en.wikipedia.org/w/index.php?title=Isotype_(picture_language)&oldid=1122230869).
+* OpenRefine Introduction. Accessed 10 December 2022. [https://jonasparnow.com/open-refine/](https://jonasparnow.com/open-refine/).
+* OpenStreetMap. OpenStreetMap. Accessed 9 December 2022. [https://www.openstreetmap.org/](https://www.openstreetmap.org/).

@@ -17,6 +17,14 @@ Rubén Rodríguez CASAÑ, Elisabet Carbó CATALAN and Diana ROIG-SANZ create a v
 
 ## Feedback
 
+Tiziana ALOCCI critiques design decisions made in the mock-up visualisations; she claims that bar charts should show small differences among compared groups, not heavy outliers.
+
+She further argues that for visualisations that build on geographies, it is fundamental to implement map projection ratios that are unbiased and objective - irrespective of the underlying infrastructure. ALOCCI also warns of the dangers of choosing wrong color sets for visuals, e.g., light colors on light backgrounds.
+
+Keith ANDREWS attempts to answer the presenters' questions by showing how comparisons of contemporary and historical geographical data can be implemented with the help of Javascript libraries. He goes on to propose a more interactive environment for visuals that lets users zoom or expand on specific values, and which is not Google's DataStudio.
+
+Linda FREYBERG expresses uncertainty concerning the type of visuals chosen, mentioning that maps are not suitable for answering every research question. Regardless of the presenters’ choice of aesthetics, she refers to typologically different solutions as implemented in the TudorNetworks.
+
 ## Slides
 
 {% pdf "https://github.com/chpollin/InfoVisDHGraz/raw/471c63cc43f0919d13d7b3dc7ac1fba7fbfac036/slides/slides_presentation_5_global_history_casan_catalan.pptx" no_link %}
@@ -24,6 +32,6 @@ Rubén Rodríguez CASAÑ, Elisabet Carbó CATALAN and Diana ROIG-SANZ create a v
 ## Resources
 
 * Gorg, Carsten, Zhicheng Liu, Neel Parekh, Kanupriya Singhal, and John Stasko. ‘Visual Analytics with Jigsaw’. In _2007 IEEE Symposium on Visual Analytics Science and Technology_, 201–2, 2007. [https://doi.org/10.1109/VAST.2007.4389017](https://doi.org/10.1109/VAST.2007.4389017).
-* ‘Merging Historical Maps in D3.Js v.5’. Accessed 9 December 2022. [https://datawanderings.com/2019/07/08/merging-historical-maps/](https://datawanderings.com/2019/07/08/merging-historical-maps/).
-* ‘TopoJSON’. JavaScript. 2012. Reprint, TopoJSON, 9 December 2022. [https://github.com/topojson/topojson](https://github.com/topojson/topojson).
-* ‘Tudor Networks | Data Visualization | History’. Accessed 9 December 2022. [http://tudornetworks.net/](http://tudornetworks.net/).
+* Merging Historical Maps in D3.Js v.5. Accessed 9 December 2022. [https://datawanderings.com/2019/07/08/merging-historical-maps/](https://datawanderings.com/2019/07/08/merging-historical-maps/).
+* TopoJSON. JavaScript. 2012. Reprint, TopoJSON, 9 December 2022. [https://github.com/topojson/topojson](https://github.com/topojson/topojson).
+* Tudor Networks | Data Visualization | History. Accessed 9 December 2022. [http://tudornetworks.net/](http://tudornetworks.net/).

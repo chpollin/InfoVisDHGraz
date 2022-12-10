@@ -25,7 +25,7 @@ information visualization, accessibility
 
 * [Keith Andrews (2016) ILLUMINATING DATA THROUGH VISUALISATION, TEDxGraz. Talk on YouTube](https://www.youtube.com/watch?v=fnyKj8r0CN4)
 * [Keith Andrews (2022) Information Visualisation Course Notes](https://courses.isds.tugraz.at/ivis/ivis.pdf)
-* Lamping, John, Ramana Rao, and Peter Pirolli. ‘A Focus+context Technique Based on Hyperbolic Geometry for Visualizing Large Hierarchies’. In _Proceedings of the SIGCHI Conference on Human Factors in Computing Systems - CHI ’95_, 401–8. Denver, Colorado, United States: ACM Press, 1995. [https://doi.org/10.1145/223904.223956](https://doi.org/10.1145/223904.223956).
+* Lamping, John, Ramana Rao, and Peter Pirolli. A Focus+context Technique Based on Hyperbolic Geometry for Visualizing Large Hierarchies. In _Proceedings of the SIGCHI Conference on Human Factors in Computing Systems - CHI ’95_, 401–8. Denver, Colorado, United States: ACM Press, 1995. [https://doi.org/10.1145/223904.223956](https://doi.org/10.1145/223904.223956).
 
 
 

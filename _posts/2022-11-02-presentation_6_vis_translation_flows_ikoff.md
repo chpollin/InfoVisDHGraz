@@ -21,6 +21,14 @@ translation studies
 
 ## Feedback
 
+Keith ANDREWS remarks that decent annotation or a descriptive legend for plots of any kind is of prime importance. Moreover, he states that, even though there are great benefits to dynamic graphics with active notions, there is a degree at which they become irritating and thus detrimental to the visual task. Instead of relying on third-party-software, ANDREWS proposes using customized javascript libraries (e.g., D3.js), and in doing so, perhaps including a chord diagram.
+
+Linda FREYBERG emphasizes the minimal requirements of advanced visualisations, such as a sharp and clean separation of text and image elements that should only overlap intentionally. She favors the presenters' approach for dynamic visuals that naturally exhibit notions of movement and underlines her opinion with an example provided in the video "Charting culture". However, special attention should be laid on the question what purpose the stacking of multiple visualizations fulfils.
+
+Tiziana ALOCCI remarks on specific features of individual visualisations, such as beeing attentive towards thickness of edges as they may reflect the nature of (meta)data parameters. Moreover, she scrutinizes missing datapoints for individual rows, and how ambiguity or imcompleteness in the data is reflected in the visualisation. Both ANDREWS and ALOCCI recommend using Rawgraphs as an entry point to more non-conventional visualization types, and as a means of prototyping.
+
+Florian WINDHAGER agrees on the importance of having a specific audience in mind. Given that the final composite view will be static, he proposes the option of showing dynamic networks with 'Graph Comics'. While he admits that “one view is not enough”, he is playing with the idea of better integrating the composite view in a more dynamic environment, such as in a customizable dashboard (e.g., by space and time).
+
 ## Slides
 
 {% pdf "https://raw.githubusercontent.com/chpollin/InfoVisDHGraz/5fd88139ff2f86b254e152dadfe7719d2c53403c/slides/slides_presentation_6_ikoff.pptx" no_link %}
@@ -30,4 +38,4 @@ translation studies
 * Bach, Benjamin, Natalie Kerracher, Kyle Wm. Hall, Sheelagh Carpendale, Jessie Kennedy, and Nathalie Henry Riche. ‘Telling Stories about Dynamic Networks with Graph Comics’. In _Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems_, 3670–82. San Jose California USA: ACM, 2016. [https://doi.org/10.1145/2858036.2858387](https://doi.org/10.1145/2858036.2858387).
 * _Charting Culture_, 2014. [https://www.youtube.com/watch?v=4gIhRkCcD4U](https://www.youtube.com/watch?v=4gIhRkCcD4U).
 * Ijeoma, Ekene. ‘The Refugee Project’. Accessed 9 December 2022. [https://therefugeeproject.org](https://therefugeeproject.org).
-* ‘RAWGraphs’. Accessed 9 December 2022. [https://www.rawgraphs.io/](https://www.rawgraphs.io/).
+* RAWGraphs. Accessed 9 December 2022. [https://www.rawgraphs.io/](https://www.rawgraphs.io/).
