@@ -19,7 +19,7 @@ digital collections, literary estate
 
 ## Slides
 
-{% pdf "https://raw.githubusercontent.com/chpollin/InfoVisDHGraz/raw/49c6a5625a1767a41821a8d9cd1463266c2d6ba1/slides/slides_presentation_3_visper_fritze.pptx" no_link %}
+{% pdf "https://github.com/chpollin/InfoVisDHGraz/raw/30ac5951e572253cc4f7721d39d1c47e4a052836/slides/slides_presentation_3_visper_fritze.pptx" no_link %}
 
 ## Feedback
 
