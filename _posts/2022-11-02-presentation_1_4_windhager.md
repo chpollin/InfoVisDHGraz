@@ -19,7 +19,7 @@ information visualization, multimodal interfaces
 
 ## Slides
 
-{% pdf "https://raw.githubusercontent.com/chpollin/InfoVisDHGraz/raw/b224fbb8778c248109d059a1ff07f2f69c6177b8/slides/slides_presentation_1_4_windhager.pptx no_link %}
+{% pdf "http://github.com/chpollin/InfoVisDHGraz/raw/7ebd06a758fb302ffbcdecb4c2256281b5940c85/slides/slides_presentation_1_4_windhager.pptx" no_link %}
 
 ## Resources
 
