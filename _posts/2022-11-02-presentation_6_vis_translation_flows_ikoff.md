@@ -26,3 +26,8 @@ translation studies
 {% pdf "https://raw.githubusercontent.com/chpollin/InfoVisDHGraz/5fd88139ff2f86b254e152dadfe7719d2c53403c/slides/slides_presentation_6_ikoff.pptx" no_link %}
 
 ## Resources
+
+* Bach, Benjamin, Natalie Kerracher, Kyle Wm. Hall, Sheelagh Carpendale, Jessie Kennedy, and Nathalie Henry Riche. ‘Telling Stories about Dynamic Networks with Graph Comics’. In _Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems_, 3670–82. San Jose California USA: ACM, 2016. [https://doi.org/10.1145/2858036.2858387](https://doi.org/10.1145/2858036.2858387).
+* _Charting Culture_, 2014. [https://www.youtube.com/watch?v=4gIhRkCcD4U](https://www.youtube.com/watch?v=4gIhRkCcD4U).
+* Ijeoma, Ekene. ‘The Refugee Project’. Accessed 9 December 2022. [https://therefugeeproject.org](https://therefugeeproject.org).
+* ‘RAWGraphs’. Accessed 9 December 2022. [https://www.rawgraphs.io/](https://www.rawgraphs.io/).

@@ -32,3 +32,5 @@ Florian WINDHAGER proposes using word clouds on top of clustering methods, such 
 Tiziana ALOCCI advises using a more up-to-date visualization software and also securing a more concrete access point into the visual itself, regardless of whether the implementation is primarily aimed at Romance studies research experts.
 
 ## Resources
+
+* ‘PNNL: IN-SPIRETM - About IN-SPIRETM’. Accessed 9 December 2022. [https://in-spire.pnnl.gov/about.stm](https://in-spire.pnnl.gov/about.stm)

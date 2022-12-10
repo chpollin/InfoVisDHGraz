@@ -24,3 +24,5 @@ information visualization, multimodal interfaces
 ## Resources
 
 * [Das Kunstmuseum im digitalen Zeitalter 2021 - Eva Mayr & Florian Windhager & Anja Grebe- Talk am YouTube (German)](https://www.youtube.com/watch?v=EqllLJDZBu8)
+* 'InTavia'. Accessed 9 December 2022. [https://intavia.eu/](https://intavia.eu/).
+* Schwabish, Jonathan A. _Better Data Visualizations: A Guide for Scholars, Researchers, and Wonks_. New York: Columbia University Press, 2021.

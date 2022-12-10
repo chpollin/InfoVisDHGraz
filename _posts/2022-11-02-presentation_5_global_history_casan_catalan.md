@@ -22,3 +22,8 @@ Rubén Rodríguez CASAÑ, Elisabet Carbó CATALAN and Diana ROIG-SANZ create a v
 {% pdf "https://github.com/chpollin/InfoVisDHGraz/raw/471c63cc43f0919d13d7b3dc7ac1fba7fbfac036/slides/slides_presentation_5_global_history_casan_catalan.pptx" no_link %}
 
 ## Resources
+
+* Gorg, Carsten, Zhicheng Liu, Neel Parekh, Kanupriya Singhal, and John Stasko. ‘Visual Analytics with Jigsaw’. In _2007 IEEE Symposium on Visual Analytics Science and Technology_, 201–2, 2007. [https://doi.org/10.1109/VAST.2007.4389017](https://doi.org/10.1109/VAST.2007.4389017).
+* ‘Merging Historical Maps in D3.Js v.5’. Accessed 9 December 2022. [https://datawanderings.com/2019/07/08/merging-historical-maps/](https://datawanderings.com/2019/07/08/merging-historical-maps/).
+* ‘TopoJSON’. JavaScript. 2012. Reprint, TopoJSON, 9 December 2022. [https://github.com/topojson/topojson](https://github.com/topojson/topojson).
+* ‘Tudor Networks | Data Visualization | History’. Accessed 9 December 2022. [http://tudornetworks.net/](http://tudornetworks.net/).

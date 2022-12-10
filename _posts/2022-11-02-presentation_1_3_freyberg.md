@@ -25,3 +25,5 @@ human-computer interaction, information visualization
 
 * [Visualizing cultural heritage (Linda Freyberg). Talk on YouTube](https://www.youtube.com/watch?v=6-E5vi6oIVU)
 * [Fashion History by Entities: Artworks, Garments and Events, Linda Freyberg and Giacomo Nanni. Talk on YouTube](https://www.youtube.com/watch?v=GUnoHNtKvbM)
+* Card, Stuart K., Jock D. Mackinlay, and Ben Shneiderman. _Readings in Information Visualization: Using Vision to Think_. The Morgan Kaufmann Series in Interactive Technologies. San Francisco, Calif: Morgan Kaufmann Publishers, 1999.
+* Drucker, Johanna. ‘Humanities Approaches to Graphical Display’. _Digital Humanities Quarterly_ 005, no. 1 (10 March 2011).

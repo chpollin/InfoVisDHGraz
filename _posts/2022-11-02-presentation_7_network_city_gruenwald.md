@@ -24,3 +24,9 @@ social history, prosopography
 {% pdf "https://raw.githubusercontent.com/chpollin/InfoVisDHGraz/5fd88139ff2f86b254e152dadfe7719d2c53403c/slides/slides_presentation_7_gruenwald.pptx" no_link %}
 
 ## Resources
+
+* ‘Datawrapper Blog’. Accessed 10 December 2022. [https://blog.datawrapper.de/](https://blog.datawrapper.de/).
+* ‘David Rumsey Historical Map Collection | The Collection’. Accessed 9 December 2022. [https://www.davidrumsey.com/](https://www.davidrumsey.com/).
+* ‘Isotype (Picture Language)’. In _Wikipedia_, 16 November 2022. [https://en.wikipedia.org/w/index.php?title=Isotype_(picture_language)&oldid=1122230869](https://en.wikipedia.org/w/index.php?title=Isotype_(picture_language)&oldid=1122230869).
+* ‘OpenRefine Introduction’. Accessed 10 December 2022. [https://jonasparnow.com/open-refine/](https://jonasparnow.com/open-refine/).
+* OpenStreetMap. ‘OpenStreetMap’. Accessed 9 December 2022. [https://www.openstreetmap.org/](https://www.openstreetmap.org/).
