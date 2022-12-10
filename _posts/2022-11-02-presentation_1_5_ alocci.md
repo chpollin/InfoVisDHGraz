@@ -1,7 +1,7 @@
 ---
 title: Some thoughts on information visualization.
 date: 2022-10-27
-author: Tiziana Alocci
+author: Florian Atzenhofer-Baumgartner
 tags: [information visualization]
 comments: false
 ---

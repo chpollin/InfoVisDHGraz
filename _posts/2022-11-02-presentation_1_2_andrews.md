@@ -1,7 +1,7 @@
 ---
 title: Introduction to Information Visualisation
 date: 2022-10-27
-author: Keith Andrews
+author: Florian Atzenhofer-Baumgartner
 tags: [information visualization]
 comments: false
 ---

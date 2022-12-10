@@ -1,7 +1,7 @@
 ---
 title: Visualization as an epistemic tool
 date: 2022-10-27
-author: Linda Freyberg
+author: Florian Atzenhofer-Baumgartner
 tags: [information visualization]
 comments: false
 ---
@@ -19,7 +19,7 @@ human-computer interaction, information visualization
 
 ## Slides
 
-{% pdf "https://raw.githubusercontent.com/chpollin/InfoVisDHGraz/raw/43380e86c87af4689f296d30b0cf7546f27bc3a1/slides/slides_presentation_1_3_freyberg.pptx" no_link %}
+{% pdf "https://raw.githubusercontent.com/chpollin/InfoVisDHGraz/raw/2320c6123f47304e79376925bce44e38d867f5ed/slides/slides_presentation_1_3_freyberg.pptx" no_link %}
 
 ## Resources
 
