@@ -2,7 +2,7 @@
 title: "In the network of the city. Social Groups, Networks of Relations and Interactions in Late Medieval Vienna (1448-1466)" 
 date: 2022-10-28
 authors: [<author1_id>, <author2_id>]
-tags: [social history]
+tags: [social history, prosopography]
 comments: false
 ---
 

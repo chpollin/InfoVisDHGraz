@@ -2,7 +2,7 @@
 title: Charting Translation Studies Networks 
 date: 2022-10-28
 authors: [<author1_id>, <author2_id>]
-tags: [translation studies]
+tags: [translation studies, bibliographies]
 comments: false
 ---
 
