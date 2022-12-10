@@ -1,5 +1,5 @@
 ---
-title: Towards a Global History of the International Institute of Intellectual Cooperation: Challenges and Opportunities 
+title: Towards a Global History of the International Institute of Intellectual Cooperation. Challenges and Opportunities 
 date: 2022-10-28
 authors: [<author1_id>, <author2_id>]
 tags: [translation studies]
