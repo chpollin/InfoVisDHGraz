@@ -23,8 +23,8 @@ human-computer interaction, information visualization
 
 ## Resources
 
-* [Visualizing cultural heritage (Linda Freyberg). Talk on YouTube](https://www.youtube.com/watch?v=6-E5vi6oIVU)
-* [Fashion History by Entities: Artworks, Garments and Events, Linda Freyberg and Giacomo Nanni. Talk on YouTube](https://www.youtube.com/watch?v=GUnoHNtKvbM)
+* [Visualizing cultural heritage (Linda Freyberg). Talk on YouTube](https://www.youtube.com/watch?v=6-E5vi6oIVU).
+* [Fashion History by Entities: Artworks, Garments and Events, Linda Freyberg and Giacomo Nanni. Talk on YouTube](https://www.youtube.com/watch?v=GUnoHNtKvbM).
 * Freyberg, Linda (2021). _Ikonizität der Information: Die Erkenntnisfunktion struktureller und gestalteter Bildlichkeit in der digitalen Wissensorganisation_ (Doctoral dissertation, Leuphana Universität Lüneburg).
 * Card, Stuart K., Jock D. Mackinlay, and Ben Shneiderman (1999). *Readings in Information Visualization: Using Vision to Think*. The Morgan Kaufmann Series in Interactive Technologies. San Francisco, Calif: Morgan Kaufmann Publishers.
 * Drucker, Johanna. *Humanities Approaches to Graphical Display*. Digital Humanities Quarterly_005, no. 1 (10 March 2011).
