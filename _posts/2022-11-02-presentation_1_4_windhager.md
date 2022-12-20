@@ -11,7 +11,7 @@ Department for Arts & Cultural Studies University for Continuing Education Krems
 
 ## Summary 
 
-Florian Windhager portrays information visualization as a way to represent structured data visually in order to better understand it. It can be a powerful tool for enhancing our cognition, especially when dealing with complex or invisible factors in our environment. He argues that Information technology and multimodal interfaces are transforming the way we interact with data, and can serve as evolutionary game changers. The use of infovis can support human reasoning, but it is important to be aware of the strengths and limitations of different visualization methods. Building so-called post-digital tools for scalable reading and viewing, and daring to create aesthetically pleasing and meaningful visualizations, as well as emphasising of multiple views can help us unlock their full potential.
+Florian Windhager portrays information visualization as a way to represent structured data  visually in order to better understand a domain and its data. It can be a powerful tool for enhancing our cognition, especially when dealing with complex or invisible factors in our environment. He argues that Information technology and multimodal interfaces are transforming the way we interact with data, and can serve as evolutionary game changers. The use of information visualization can support human reasoning, but it is important to be aware of the strengths and limitations of different visualization methods. Building so-called post-digital tools for scalable reading and viewing, and daring to create aesthetically pleasing and meaningful visualizations, as well as emphasizing multiple views can help us unlock their full potential.
 
 #### Keywords
 

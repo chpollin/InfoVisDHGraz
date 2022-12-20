@@ -11,7 +11,7 @@ Institute of Austrian Historical Research, University of Vienna
 
 ## Summary
 
-Korbinian GRÜNWALD’s project is focused on the study of the social structure of Vienna in the mid-15th century, a time of escalating Habsburg succession conflicts. The legal transactions documented in the municipal land registers are used to create a relational database using the methods of digital humanities, and subsequently analysed using prosopographical and social network analysis methods. The resulting data is then utilised to construct and evaluate social groups and networks, and to investigate the correlations between communities of property, group affiliations, and relationships. The aim is to create an interactive map for visualization to show the relations between places, institutions, and people.
+Korbinian GRÜNWALD’s project is focused on the study of the social structure of Vienna in the mid-15th century, a time of escalating Habsburg succession conflicts. The legal transactions documented in the municipal land registers are used to create a relational database using the methods of Digital Humanities, and subsequently analyzed using prosopographical and social network analysis methods. The resulting data is then utilized to construct and evaluate social groups and networks, and to investigate the correlations between communities of property, group affiliations, and relationships. The aim is to create an interactive map for visualization to show the relations between places, institutions, and people.
 
 #### Keywords
 
@@ -19,7 +19,7 @@ social history, prosopography
 
 ## Feedback
 
-Keith ANDREWS insists that, instead of complex query masks to generate visualizations, a faceted-search mask would be more suitable. He adds that, generally, one should prefer bar chart over pie chart; in any case, the successive order of visual elements should be constitent and transparent. Regarding network graphs, ANDREWS states that for large-scale network visuals, it might be preferable to include a threshold, i.e., representing only nodes with a certain amount of edges. Furthermore, he stresses that including more (agglomerations of) metadata in generating the visuals would be a promising endeavor, e.g., georeferences.
+Keith ANDREWS insists that, instead of complex query masks to generate visualizations, a faceted-search mask would be more suitable. He adds that, generally, one should prefer bar charts over pie charts; in any case, the successive order of visual elements should be consistent and transparent. Regarding network graphs, ANDREWS states that for large-scale network visuals, it might be preferable to include a threshold, i.e., representing only nodes with a certain amount of edges. Furthermore, he stresses that including more (agglomerations of) metadata in generating the visuals would be a promising endeavor, e.g., georeferences.
 
 Linda FREYBERG remarks positively on the aesthetics of some visuals shown, noticing conceptual similarity to designs classics from Otto NEURATH. She also advocates using open data processing tools, such as OpenRefine.
 

@@ -2,7 +2,7 @@
 title: Charting Translation Studies Networks 
 date: 2022-10-28
 authors: [<author1_id>, <author2_id>]
-tags: [translation studies, bibliographies, presentation]
+tags: [translation studies, bibliographies, historiography, presentation]
 comments: false
 ---
 
@@ -11,17 +11,17 @@ University of Tartu
 
 ## Summary
 
-The past 20 years have seen several initiatives to organize the knowledge collected in translation studies. These initiatives include bibliographies, encyclopedias, and handbooks. However, they do not focus on the development of a systematic view on collaboration within the discipline, but rather synchronically and diachronically. Against this backdrop, Luc VAN DOORSLAER plans to use bibliographical data to chart translation studies networks based on co-authoring and affiliations: putting institutions at the centre, not works as objects. By understanding translation as social practice, he attempts to use these data to visualize collaboration in the discipline and contribute to a more dynamic view on translation studies historiography. His role is understood as conceptually deciding what should be conveyed through visuals, not implementing them.
+The past 20 years have seen several initiatives to organize the knowledge collected in translation studies. These initiatives include bibliographies, encyclopedias, and handbooks. However, they do not focus on the development of a systematic view on collaboration within the discipline, but rather synchronically and diachronically. Against this backdrop, Luc VAN DOORSLAER plans to use bibliographical data to chart translation studies networks based on co-authoring and affiliations: putting institutions at the center, not works as objects. By understanding translation as social practice, he attempts to use these data to visualize collaboration in the discipline and contribute to a more dynamic view on translation studies historiography. His role is understood as conceptually deciding what should be conveyed through visuals, not implementing them.
 
 #### Keywords
 
-translation studies, bibliographies
+translation studies, bibliographies, historiography
 
 ## Feedback
 
-Linda FREYBERG emphasizes that committing to visualisations as heuristics often requires a strong theoretical foundation in the (Digital) Humanities. In this regard, it is yet unclear which conceptual modes the visualizations should cater for. It is reasoned, however, that knowledge trees would be a decent fit given a database that is strongly relational.  FREYBERG also claims that deciding on the variables in focus of a visualization greatly influence what kind of narrative is told. For instance, graphically correlating persons with institutions (or vice-versa) might lend too much explanational power to one or the other. In addition, she argues for bubble and cluster graphics instead of bar charts for the given case.
+Linda FREYBERG emphasizes that committing to visualizations as heuristics often requires a strong theoretical foundation in the (Digital) Humanities. In this regard, it is yet unclear which conceptual modes the visualizations should cater for. It is reasoned, however, that knowledge trees would be a decent fit given a database that is strongly relational.  FREYBERG also claims that deciding on the variables in focus of a visualization greatly influences what kind of narrative is told. For instance, graphically correlating persons with institutions (or vice-versa) might lend too much explanational power to one or the other. In addition, she argues for bubble and cluster graphics instead of bar charts for the given case.
 
-Keith ANDREWS asks whether it would bring more meaningful visualizations by extending the underlying bibliometrical dataset, thus clearly rendering visible the cohesiveness of co-authorships in translation studies. He also addresses the highly probably chance that the dataset is relatively fragmentary due to the biographical nature of academic scholarship, which in turn must be taken into consideration in the face of visualizing these processes. Furthermore, ANDREWS proposes a plethora of other tools and approaches of implementing science-network visualizations.
+Keith ANDREWS asks whether it would bring more meaningful visualizations by extending the underlying bibliometrical dataset, thus clearly rendering visible the cohesiveness of co-authorships in translation studies. He also addresses the highly probable chance that the dataset is relatively fragmentary due to the biographical nature of academic scholarship, which in turn must be taken into consideration in the face of visualizing these processes. Furthermore, ANDREWS proposes a plethora of other tools and approaches of implementing science-network visualizations.
 
 Tiziana ALOCCI defends the heuristic nature of plain and static visualizations. She exemplarily underscores their effectiveness with works of Mark LOMBARDI.
 

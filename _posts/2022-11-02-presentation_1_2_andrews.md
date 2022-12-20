@@ -15,7 +15,7 @@ According to Keith Andrews, information visualization is the practice of turning
 
 #### Keywords
 
-jury
+accessibility, jury
 
 ## Slides
 
