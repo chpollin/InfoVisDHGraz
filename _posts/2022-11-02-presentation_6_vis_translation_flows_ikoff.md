@@ -2,7 +2,7 @@
 title: Visualising Translation Flows in Ibero-American Literary Magazines 
 date: 2022-10-28
 authors: [<author1_id>, <author2_id>]
-tags: [translation studies]
+tags: [translation studies, presentation]
 comments: false
 ---
 

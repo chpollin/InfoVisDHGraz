@@ -2,7 +2,7 @@
 title: Visualization as an epistemic tool
 date: 2022-10-27
 authors: [<author1_id>, <author2_id>]
-tags: [information visualization]
+tags: [jury]
 comments: false
 ---
 
@@ -15,7 +15,7 @@ As per Linda Freyberg, information visualization is a melting pot of various dis
 
 #### Keywords
 
-human-computer interaction, information visualization
+human-computer interaction, jury
 
 ## Slides
 

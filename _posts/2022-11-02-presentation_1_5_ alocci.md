@@ -2,7 +2,7 @@
 title: Some thoughts on information visualization.
 date: 2022-10-27
 authors: [<author1_id>, <author2_id>]
-tags: [data stories, narratives, information visualization]
+tags: [data stories, jury]
 comments: false
 ---
 
@@ -15,7 +15,7 @@ Tiziana Alocci outlines that data stories are narratives that connect events, of
 
 #### Keywords
 
-data stories, narratives, information visualization
+data stories, jury
 
 ## Resources
 

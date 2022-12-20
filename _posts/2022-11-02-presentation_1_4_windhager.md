@@ -2,7 +2,7 @@
 title: Some thoughts on VIS + (D)H. How to not hammer the Arts & Humanities
 date: 2022-10-27
 authors: [<author1_id>, <author2_id>]
-tags: [information visualization]
+tags: [jury]
 comments: false
 ---
 
@@ -15,7 +15,7 @@ Florian Windhager portrays information visualization as a way to represent struc
 
 #### Keywords
 
-information visualization, multimodal interfaces
+multimodal interfaces, jury
 
 ## Slides
 

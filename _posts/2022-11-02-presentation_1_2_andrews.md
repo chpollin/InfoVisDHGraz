@@ -2,7 +2,7 @@
 title: Introduction to Information Visualisation
 date: 2022-10-27
 authors: [<author1_id>, <author2_id>]
-tags: [information visualization]
+tags: [jury]
 comments: false
 ---
 
@@ -15,7 +15,7 @@ According to Keith Andrews, information visualization is the practice of turning
 
 #### Keywords
 
-information visualization, accessibility
+jury
 
 ## Slides
 
