@@ -33,4 +33,4 @@ Tiziana ALOCCI advises using a more up-to-date visualization software and also s
 
 ## Resources
 
-* PNNL: IN-SPIRETM - About IN-SPIRETM. Accessed 9 December 2022. [https://in-spire.pnnl.gov/about.stm](https://in-spire.pnnl.gov/about.stm)
+* PNNL: IN-SPIRETM - About IN-SPIRETM. [https://in-spire.pnnl.gov/about.stm](https://in-spire.pnnl.gov/about.stm).

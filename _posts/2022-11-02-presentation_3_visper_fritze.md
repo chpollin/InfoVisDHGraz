@@ -33,7 +33,7 @@ Keith ANDREWS is concerned about the question of how well hierarchy is (mis-)rep
 
 ## Resources
 
-* [Deutsche Digitale Bibliothek visualized - Urban Complexity Lab](https://uclab.fh-potsdam.de/ddb/index.en.html)
+* [Deutsche Digitale Bibliothek visualized - Urban Complexity Lab](https://uclab.fh-potsdam.de/ddb/index.en.html).
 * Alsallakh, Bilal, Luana Micallef, Wolfgang Aigner, Helwig Hauser, Silvia Miksch, and Peter Rodgers. Visualizing Sets and Set-Typed Data: State-of-the-Art and Future Challenges (Supplementary Material).
 * DIE LANDESSAMLUNGEN NIEDERÖSTERREICH ONLINE - Landessammlungen Niederösterreich. [https://www.landessammlungen-noe.at/de/online.html](https://www.landessammlungen-noe.at/de/online.html).
 * Dörk, Marian, Boris Müller, Jan-Erik Stange, Johannes Herseni, and Katja Dittrich. ‘Co-Designing Visualizations for Information Seeking and Knowledge Management’. _Open Information Science_ 4, no. 1 (31 December 2020): 217–35. [https://doi.org/10.1515/opis-2020-0102](https://doi.org/10.1515/opis-2020-0102).

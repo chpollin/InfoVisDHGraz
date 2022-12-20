@@ -38,5 +38,5 @@ Florian WINDHAGER agrees on the importance of having a specific audience in mind
 * Bach, Benjamin, Natalie Kerracher, Kyle Wm. Hall, Sheelagh Carpendale, Jessie Kennedy, and Nathalie Henry Riche. ‘Telling Stories about Dynamic Networks with Graph Comics’. In _Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems_, 3670–82. San Jose California USA: ACM, 2016. [https://doi.org/10.1145/2858036.2858387](https://doi.org/10.1145/2858036.2858387).
 * _Charting Culture_, 2014. [https://www.youtube.com/watch?v=4gIhRkCcD4U](https://www.youtube.com/watch?v=4gIhRkCcD4U).
 * Ijeoma, Ekene. ‘The Refugee Project’. [https://therefugeeproject.org](https://therefugeeproject.org).
-* RAWGraphs. Accessed 9 December 2022. [https://www.rawgraphs.io/](https://www.rawgraphs.io/).
+* RAWGraphs. [https://www.rawgraphs.io/](https://www.rawgraphs.io/).
 * D3.js - Data-Driven Documents. https://d3js.org/.

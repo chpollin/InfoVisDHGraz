@@ -2,7 +2,7 @@
 title: Introduction to Information Visualisation
 date: 2022-10-27
 authors: [<author1_id>, <author2_id>]
-tags: [jury]
+tags: [accessibility, jury]
 comments: false
 ---
 
