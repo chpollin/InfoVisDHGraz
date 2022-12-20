@@ -32,7 +32,7 @@ Tiziana ALOCCI suggests using Datawrapper to ingest the data into proper visuals
 ## Resources
 
 * Datawrapper Blog. Accessed 10 December 2022. [https://blog.datawrapper.de/](https://blog.datawrapper.de/).
-* David Rumsey Historical Map Collection | The Collection. Accessed 9 December 2022. [https://www.davidrumsey.com/](https://www.davidrumsey.com/).
+* David Rumsey Historical Map Collection. The Collection. Accessed 9 December 2022. [https://www.davidrumsey.com/](https://www.davidrumsey.com/).
 * Isotype (Picture Language). In _Wikipedia_, 16 November 2022. [https://en.wikipedia.org/w/index.php?title=Isotype_(picture_language)&oldid=1122230869](https://en.wikipedia.org/w/index.php?title=Isotype_(picture_language)&oldid=1122230869).
 * OpenRefine Introduction. Accessed 10 December 2022. [https://jonasparnow.com/open-refine/](https://jonasparnow.com/open-refine/).
 * OpenStreetMap. OpenStreetMap. Accessed 9 December 2022. [https://www.openstreetmap.org/](https://www.openstreetmap.org/).

@@ -36,4 +36,4 @@ Linda FREYBERG expresses uncertainty concerning the type of visuals chosen, ment
 * Gorg, Carsten, Zhicheng Liu, Neel Parekh, Kanupriya Singhal, and John Stasko. ‘Visual Analytics with Jigsaw’. In _2007 IEEE Symposium on Visual Analytics Science and Technology_, 201–2, 2007. [https://doi.org/10.1109/VAST.2007.4389017](https://doi.org/10.1109/VAST.2007.4389017).
 * Merging Historical Maps in D3.Js v.5. [https://datawanderings.com/2019/07/08/merging-historical-maps/](https://datawanderings.com/2019/07/08/merging-historical-maps/).
 * TopoJSON. JavaScript. 2012. Reprint, TopoJSON. [https://github.com/topojson/topojson](https://github.com/topojson/topojson).
-* Tudor Networks | Data Visualization | History. [http://tudornetworks.net/](http://tudornetworks.net/).
+* Tudor Networks. Data Visualization. History. [http://tudornetworks.net/](http://tudornetworks.net/).

@@ -39,4 +39,4 @@ Florian WINDHAGER agrees on the importance of having a specific audience in mind
 * _Charting Culture_, 2014. [https://www.youtube.com/watch?v=4gIhRkCcD4U](https://www.youtube.com/watch?v=4gIhRkCcD4U).
 * Ijeoma, Ekene. ‘The Refugee Project’. [https://therefugeeproject.org](https://therefugeeproject.org).
 * RAWGraphs. [https://www.rawgraphs.io/](https://www.rawgraphs.io/).
-* D3.js - Data-Driven Documents. https://d3js.org/.
+* D3.js - Data-Driven Documents. [https://d3js.org/](https://d3js.org/).
