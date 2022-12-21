@@ -1,14 +1,12 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 1
 ---
 
 ## Workshop on Information Visualization in the (Digital) Humanities
 
 ### 27th-28th of October 2022, University of Graz 
-
-## Workshop on Information Visualization in the (Digital) Humanities
 
 From the 27th to the 28th of October in 2022, a workshop on "Information Visualization in the (Digital) Humanities" took place at the Centre for Information Modelling at the University of Graz. The aim was to bring together beginners as well as experienced researchers in the field of information visualisation and to give them the opportunity to discuss and analyse their own visualisations in front of an international jury of experts.
 
