@@ -8,12 +8,6 @@ order: 4
 
 ### 27th-28th of October 2022, University of Graz 
 
-Organizers: \
-Philipp Hofeneder (Department of Translation Studies),\
-Christopher Pollin (Centre for Information Modelling)\
-Florian Atzenhofer-Baumgartner (Centre for Information Modelling)\
-Elisabeth Raunig (Centre for Information Modelling)
-
 ## Workshop on Information Visualization in the (Digital) Humanities
 
 From the 27th to the 28th of October in 2022, a workshop on "Information Visualization in the (Digital) Humanities" took place at the Centre for Information Modelling at the University of Graz. The aim was to bring together beginners as well as experienced researchers in the field of information visualisation and to give them the opportunity to discuss and analyse their own visualisations in front of an international jury of experts.
@@ -22,7 +16,9 @@ The practical character of the event meant that a great many examples, useful so
 
 The organizers\
 Philipp HOFENEDER\
-Christopher POLLIN
+Christopher POLLIN\
+Florian Atzenhofer-Baumgartner (Centre for Information Modelling)\
+Elisabeth Raunig (Centre for Information Modelling)
 
 ## Program
 
