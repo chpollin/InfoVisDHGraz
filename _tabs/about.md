@@ -16,7 +16,13 @@ Elisabeth Raunig (Centre for Information Modelling)
 
 ## Workshop on Information Visualization in the (Digital) Humanities
 
-lorem ipsum
+From the 27th to the 28th of October in 2022, a workshop on "Information Visualization in the (Digital) Humanities" took place at the Centre for Information Modelling at the University of Graz. The aim was to bring together beginners as well as experienced researchers in the field of information visualisation and to give them the opportunity to discuss and analyse their own visualisations in front of an international jury of experts.
+
+The practical character of the event meant that a great many examples, useful sources, and valuable advice were given with regard to the production process of visualisations. Due to the great response, we have decided to publish the entire results of the workshop on the following page. This includes abstracts of the individual presentations (summary), the analyses of the jury members (feedback), the actual presentations (slides) as well as the numerous source references and interesting examples (resources). In this way, we want to make the results of the workshop available retrospectively and in a low-threshold manner and hope that we will thus contribute to establishing visualisations in the humanities.
+
+The organizers\
+Philipp HOFENEDER\
+Christopher POLLIN
 
 ## Program
 
