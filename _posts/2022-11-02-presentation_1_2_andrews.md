@@ -19,7 +19,7 @@ accessibility, jury
 
 ## Slides
 
-{% pdf "https://raw.githubusercontent.com/chpollin/InfoVisDHGraz/70d3f6fddefa9bb764b5249d12a4251a71465aac/slides/slides_presentation_1_2_andrews.pptx" no_link %}
+[Slides](https://keithandrews.com/talks/2022/2022-10-27-ivis-dh/#1)
 
 ## Resources
 
