@@ -18,9 +18,3 @@ Tiziana Alocci outlines that data stories are narratives that connect events, of
 data stories, jury
 
 ## Resources
-
-* [Personal page](https://www.tizianaalocci.com)
-* [Tiziana Alocci – Make It Sound - btconf Berlin 2022. Talk on YouTube](https://www.youtube.com/watch?v=OTudia499VU "Tiziana Alocci – Make It Sound - btconf Berlin 2022").
-* [Come i dati sonori possono ricreare ricordi perduti | Tiziana Alocci | TEDxGenova, 2022](https://www.youtube.com/watch?v=Sdgpm5U7Hek&ab_channel=TEDxTalks).
-* Freytag, Gustav. _Die Technik Des Dramas_. Translated by Elias MacEwan. 6th ed. New York: S.C. Griggs, 1968. Reprint, S. Hirzel, 1985.
-* Munari, Bruno, and Patrick Creagh. _Design as Art_. Penguin Modern Classics. UK: Penguin Books, 2008.
